@@ -13,4 +13,4 @@ This project analyzes data provided by Motivate, a bike share system provider se
 - `bikeshare_starter.py` - Python script used to perform the data analysis.
 
 ### Credits
-- [Udacity pdsnd_github] (https://github.com/udacity/pdsnd_github) - Original Repository.
+- [Udacity pdsnd_github](https://github.com/udacity/pdsnd_github) - Original Repository.
