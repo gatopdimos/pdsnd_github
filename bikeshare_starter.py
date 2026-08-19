@@ -92,7 +92,7 @@ def trip_duration_stats(df):
     # display total travel time
 
 
-    # display mean travel time
+    # display the average travel time
 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
