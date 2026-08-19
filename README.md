@@ -10,7 +10,7 @@ US Bike Share Data Analysis
 This project analyzes data provided by Motivate, a bike share system provider serving several major cities in the United States, to uncover bike share usage patterns. The analysis focuses on the system usage in New York City. More specifically, the code provides insights into popular travel times, popular stations and trips, trip durations, and user information.
 
 ### Files used
-Include the files used
+- `bikeshare_starter.py` - Python script used to perform the data analysis.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
